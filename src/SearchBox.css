@@ -1,0 +1,19 @@
+.search-box{
+   margin-bottom: 20px;
+   
+}
+
+form{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+}
+
+#city{
+   width: 20rem;
+}
+
+#button{
+   width: 5rem;
+}

@@ -1,0 +1,45 @@
+.card{
+    padding: 0;
+}
+
+.search-box{
+    background-color: white;
+}
+
+.temp {
+    font-size: 30px;
+    margin: 15px 0;
+    letter-spacing: -1px;
+}
+
+.details{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-align: left;
+}
+.col i{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.col p{
+    margin: 0;
+}
+
+.humid ,.wind{
+    font-size: 20px;
+    letter-spacing: -1px;
+
+}
+
+.endp{
+    margin-bottom: 10px;
+}
